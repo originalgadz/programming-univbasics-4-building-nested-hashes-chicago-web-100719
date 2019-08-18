@@ -1,5 +1,5 @@
 def base_hash
-	{"Railroad"}
+	{:Railroad => "Reading"}
 end
 
 def monopoly_with_second_tier
